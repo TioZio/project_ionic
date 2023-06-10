@@ -1,0 +1,7 @@
+{
+  "name": "mprograming_tiozio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
